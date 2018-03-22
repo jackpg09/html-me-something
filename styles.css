@@ -1,0 +1,50 @@
+html {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-right: 90 px;
+    margin-left: 80px;
+    font-family: cursive;
+    background-color: greenyellow;
+    text-align: left;
+}
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 240px;
+    
+}
+#foot {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#cool {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header.title {
+    font-family: Impact;
+    font-weight: thick;
+    text-shadow: 0 0 5px blue;
+    text-align: center;
+   }
+h2 {
+    padding-left:250px;
+}
+h1.stuff {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+}
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.links {
+    margin: auto;
+    width: 40%;
+    border: 3px solid green;
+    text-align: left;
+    font-size: 15px;
+    line-height: 1%;
+}
